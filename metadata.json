@@ -1,0 +1,6 @@
+{
+  "name": "Komagene Mali Yönetim ve Kar Zarar Paneli",
+  "description": "Komagene şubeleri için günlük kart, nakit, online gelir ve masraf takibi, aylık kar-zarar analizi, geçmiş dönem karşılaştırmaları ve Excel raporlama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
